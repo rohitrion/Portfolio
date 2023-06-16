@@ -18,7 +18,7 @@ import L_TAILWIND from "../../src/assets/img/skills/tailwindcss-icon.svg"
 import Mongo from '../../src/assets/img/skills/Mongo.svg'
 import next from '../../src/assets/img/skills/next.svg'
 
-export const skills = {
+ export const skills = {
     frontend: [
       {
         link: "https://en.wikipedia.org/wiki/HTML5",
@@ -164,3 +164,4 @@ export const skills = {
       },
     ],
   };
+

@@ -5,13 +5,10 @@ import Image from "react-bootstrap/Image";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import CardDeck from 'react-bootstrap/CardDeck';
-
-// skills
-import { skills } from "../../Data/Sdata";
 import { useContext } from 'react';
 import { ThemeContext } from '../../Contex';
 import "./Skill.css";
-
+import {skills} from '../../Data/Sdata'
 const Skills = () => {
     const theme = useContext(ThemeContext);
     const darkMode = theme.state.darkMode;
