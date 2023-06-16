@@ -1,8 +1,14 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.19557ba4.css",
-    "main.js": "/Portfolio/static/js/main.c842a511.js",
+    "main.js": "/Portfolio/static/js/main.7a47d2e0.js",
+    "static/media/dominos.jpeg": "/Portfolio/static/media/dominos.92408dd6b9df6926c6d7.jpeg",
+    "static/media/imdb.jpeg": "/Portfolio/static/media/imdb.9fb1a39c6722c509c274.jpeg",
+    "static/media/sol.jpeg": "/Portfolio/static/media/sol.4dcf67bae9b3e22cc6b7.jpeg",
+    "static/media/api.jpeg": "/Portfolio/static/media/api.94477965bd83410052af.jpeg",
+    "static/media/travel.jpeg": "/Portfolio/static/media/travel.e6350e63b05d686db436.jpeg",
     "static/media/me.png": "/Portfolio/static/media/me.ef1e053f0066933ca63f.png",
+    "static/media/otp.jpeg": "/Portfolio/static/media/otp.7d529a8673d6421bbff1.jpeg",
     "static/media/award.png": "/Portfolio/static/media/award.a796a64fbb78cc3a9666.png",
     "static/media/address.png": "/Portfolio/static/media/address.a01cb8cc428702f30bec.png",
     "static/media/email.png": "/Portfolio/static/media/email.a49e015815e3ac6d2bd3.png",
@@ -31,10 +37,10 @@
     "static/media/material-ui-1.svg": "/Portfolio/static/media/material-ui-1.fd510ed8518b192069590b04e2e6348a.svg",
     "static/media/logo-vercel.svg": "/Portfolio/static/media/logo-vercel.32c29364e8c839bea90faa7b02221f15.svg",
     "main.19557ba4.css.map": "/Portfolio/static/css/main.19557ba4.css.map",
-    "main.c842a511.js.map": "/Portfolio/static/js/main.c842a511.js.map"
+    "main.7a47d2e0.js.map": "/Portfolio/static/js/main.7a47d2e0.js.map"
   },
   "entrypoints": [
     "static/css/main.19557ba4.css",
-    "static/js/main.c842a511.js"
+    "static/js/main.7a47d2e0.js"
   ]
 }
